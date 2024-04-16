@@ -1,0 +1,10 @@
+# macOS metadata files.
+.DS_Store
+
+# XCode intermediate files.
+DerivedData
+
+# XCode per-user project data.
+xcuserdata
+
+
